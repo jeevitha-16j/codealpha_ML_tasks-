@@ -1,10 +1,14 @@
-# codealpha_ML_tasks-
-Machine learning
-
-
-### TASK_1
-# Credit Scoring Model Objective: Predict an individual's creditworthinessCredit Scoring Model
-
+### About Me 
+👋 Hi, I’m jeevitha-16j
+👀 I’m interested in ...
+🌱 I’m currently learning ...
+💞️ I’m looking to collaborate on ...
+📫 How to reach me ...
+😄 Pronouns: ...
+⚡ Fun fact: ...
+......….........................
+### Task1 :"Credit Scoring Model"
+.................................
 # Objective: Predict an individual's creditworthiness using past financial data.
 
 # Approach: Use classification algorithms like Logistic Regression, Decision Trees, or Random Forest.
@@ -16,12 +20,9 @@ Machine learning
 ● Model accuracy assessment using metrics like Precision, Recall, F1-Score, ROC-AUC.
 
 ● Dataset could include: income, debts, payment history, etc.
-
-
-
-
-### TASK 2: Emotion Recognition from Speech
-
+..............,......... ..... ..
+### TASK 2: "Emotion Recognition from Speech"
+..................................
 # Objective: Recognize human emotions (e.g., happy, angry, sad) from speech audio.
 
 # Approach: Apply deep learning and speech signal processing techniques.
